@@ -1,0 +1,20 @@
+# Secrets and generated data: allowlist review before any commit
+.env*
+*.env
+*token*
+*cookie*
+*secret*
+*.key
+*.pem
+*.p12
+PRIVATE_*
+cache/
+*.mp3
+*.wav
+*.pcm
+*.wasm
+bundles/
+*.log
+__pycache__/
+.pytest_cache/
+.venv/

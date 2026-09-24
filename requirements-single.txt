@@ -1,0 +1,5 @@
+fastapi>=0.115,<1
+uvicorn>=0.34,<1
+curl-cffi>=0.12
+websocket-client>=1.7
+lameenc>=1.7
